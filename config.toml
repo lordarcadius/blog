@@ -59,7 +59,7 @@ home = "Home"
 author = "Vipul Jha"
 description = "The personal blog of Vipul Jha, where he loves to write the stuff he knows."
 # google analitycs ID
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-67305507-4"
 # contact form action
 contactFormAction = "#" # contact form works with : https://formspree.io
 # copyright
