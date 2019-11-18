@@ -10,11 +10,6 @@ sections:
   create: documents
   match: "*"
 - type: directory
-  path: content/tools
-  label: Tools
-  create: all
-  match: "**/*"
-- type: directory
   path: content/search
   label: Search
   create: all
