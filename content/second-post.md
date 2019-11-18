@@ -3,7 +3,7 @@ author = "Vipul Jha"
 categories = []
 date = 2019-11-17T18:30:00Z
 description = "Test post"
-image = "/blog/uploads/city_palm_view_144140_2560x1440.jpg"
+image = "/uploads/city_palm_view_144140_2560x1440.jpg"
 title = "Second Post"
 type = "post"
 

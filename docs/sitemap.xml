@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.vipuljha.com/blog/second-post/</loc>
+    <lastmod>2019-11-17T18:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vipuljha.com/blog/</loc>
+    <lastmod>2019-11-17T18:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.vipuljha.com/blog/categories/</loc>
     <lastmod>2019-11-07T05:00:00+00:00</lastmod>
   </url>
@@ -19,11 +29,6 @@
   
   <url>
     <loc>https://www.vipuljha.com/blog/categories/test/</loc>
-    <lastmod>2019-11-07T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.vipuljha.com/blog/</loc>
     <lastmod>2019-11-07T05:00:00+00:00</lastmod>
   </url>
   

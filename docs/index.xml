@@ -6,10 +6,19 @@
     <description>Recent content on Vipul Jha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Nov 2019 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2019 18:30:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.vipuljha.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://www.vipuljha.com/blog/second-post/</link>
+      <pubDate>Sun, 17 Nov 2019 18:30:00 +0000</pubDate>
+      
+      <guid>https://www.vipuljha.com/blog/second-post/</guid>
+      <description>Hey this is the second post I am writing. It seem cool to write on Forestry.</description>
+    </item>
     
     <item>
       <title>My awesome blog post</title>
