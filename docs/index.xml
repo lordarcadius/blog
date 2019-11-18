@@ -6,10 +6,19 @@
     <description>Recent content on Vipul Jha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Nov 2019 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 20:12:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.vipuljha.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to install Go Programming Language (GoLang) in Linux</title>
+      <link>https://www.vipuljha.com/blog/how-to-install-go-programming-language-golang-in-linux/</link>
+      <pubDate>Mon, 18 Nov 2019 20:12:00 +0000</pubDate>
+      
+      <guid>https://www.vipuljha.com/blog/how-to-install-go-programming-language-golang-in-linux/</guid>
+      <description>Go is a programming language developed by Robert Griesemer, Rob Pike, and Ken Thompson.</description>
+    </item>
     
     <item>
       <title>My awesome blog post</title>

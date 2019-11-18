@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Vipul Jha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Nov 2019 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 20:12:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.vipuljha.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Go</title>
+      <link>https://www.vipuljha.com/blog/categories/go/</link>
+      <pubDate>Mon, 18 Nov 2019 20:12:00 +0000</pubDate>
+      
+      <guid>https://www.vipuljha.com/blog/categories/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guide</title>
+      <link>https://www.vipuljha.com/blog/categories/guide/</link>
+      <pubDate>Mon, 18 Nov 2019 20:12:00 +0000</pubDate>
+      
+      <guid>https://www.vipuljha.com/blog/categories/guide/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>First</title>
