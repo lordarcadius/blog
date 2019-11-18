@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vipul Jha</title>
+    <link>https://www.vipuljha.com/blog/</link>
+    <description>Recent content on Vipul Jha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Nov 2019 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.vipuljha.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My awesome blog post</title>
+      <link>https://www.vipuljha.com/blog/my-awesome-blog-post.1/</link>
+      <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://www.vipuljha.com/blog/my-awesome-blog-post.1/</guid>
+      <description>Are you Developer and recently started your own business and Already made a website to ensure online presence and wants to reach more people.</description>
+    </item>
+    
+    <item>
+      <title>Vipul Jha</title>
+      <link>https://www.vipuljha.com/blog/author/vipul-jha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vipuljha.com/blog/author/vipul-jha/</guid>
+      <description>I am an Android Developer who loves to write articles on technology.</description>
+    </item>
+    
+  </channel>
+</rss>
