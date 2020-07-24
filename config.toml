@@ -1,7 +1,7 @@
 ############################ Default configuration #########################
-baseURL = "https://www.vipuljha.com/blog"
+baseURL = "https://blog.vipuljha.com"
 languageCode = "en-us"
-publishDir = "docs"
+# publishDir = "docs"
 # site title 
 title = "Vipul Jha"
 # theme
