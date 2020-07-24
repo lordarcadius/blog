@@ -20,18 +20,18 @@ Go is a programming language developed by Robert Griesemer, Rob Pike, and Ken Th
 
 1\. Open this [URL](https://golang.org/dl/ "Go website") in favourite browser and download the file for Linux. It will start downloading a .tar file.
 
-![](/blog/uploads/golang11.jpg)
+![](/uploads/golang11.jpg)
 
 1. Open your terminal and change your directory to the one where you've downloaded the tar file.
 
        cd your_directory
 
-   ![](/blog/uploads/golang2.png)
+   ![](/uploads/golang2.png)
 2. Now we have to extract and install the .tar file of Go. Just enter the below command and it will do the job.
 
        sudo tar -c /usr/local -xzf file_name.tar.gz
 
-   ![](/blog/uploads/golang3.png)
+   ![](/uploads/golang3.png)
 3. The installation is done now. But we have to define the path of our Go installation so that we can use it. I am using nano here, you can use any editor like vim, gedit etc.
 
        sudo nano ~/.profile
@@ -39,7 +39,7 @@ Go is a programming language developed by Robert Griesemer, Rob Pike, and Ken Th
 
        PATH="$PATH:/usr/local/bin:$PATH"
 
-   ![](/blog/uploads/golang4.png)
+   ![](/uploads/golang4.png)
 5. Now we have to source our changes to system.
 
        source ~./profile
@@ -48,7 +48,7 @@ Go is a programming language developed by Robert Griesemer, Rob Pike, and Ken Th
        go version
 7. If it gives a output similar to the given screenshot then congratulations you've done and amazing job so far. Go programming language is finally installed on your Linux machine.
 
-   ![](/blog/uploads/golang6.png)
+   ![](/uploads/golang6.png)
 
 ## **First Go program**
 
@@ -69,6 +69,6 @@ Go is a programming language developed by Robert Griesemer, Rob Pike, and Ken Th
        go run first.go
 4. Hurray! You've compiled your first ever Go program.
 
-   ![](/blog/uploads/golang10.png)
+   ![](/uploads/golang10.png)
 
 So finally we've installed Go programming language in our Linux system and wrote our very first Go program successfully.
