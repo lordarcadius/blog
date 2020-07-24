@@ -3,7 +3,7 @@ author = "Vipul Jha"
 categories = ["Go", "Guide"]
 date = 2019-11-18T20:12:00Z
 description = "A post about installing Go Programming Language or GoLang in LInux."
-image = "/blog/uploads/golang1.jpg"
+image = "/uploads/golang1.jpg"
 title = "How to install Go Programming Language (GoLang) in Linux"
 type = "post"
 
