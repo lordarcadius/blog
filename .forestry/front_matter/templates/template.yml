@@ -25,3 +25,4 @@ fields:
   label: type
 pages:
 - content/how-to-install-go-programming-language-golang-in-linux.md
+- content/test-post.md
