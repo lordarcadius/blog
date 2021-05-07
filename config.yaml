@@ -16,7 +16,7 @@ DefaultContentLanguage: en
 
 permalinks:
     post: /:slug/
-    page: /:slug/
+    page: /p/:slug/
 
 params:
     mainSections:
@@ -116,6 +116,12 @@ menu:
           url: /
           weight: -100
           pre: home
+
+    about:
+        - identifier: about
+          name: About
+          url: https://vipuljha.com
+          weight: -100
 
 related:
     includeNewer: true
