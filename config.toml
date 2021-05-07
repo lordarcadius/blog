@@ -1,1 +1,9 @@
+baseURL = "https://blog.vipuljha.com"
+languageCode = "en-us"
+# publishDir = "docs"
+# site title 
+title = "Vipul Jha"
+# theme
+theme = "hugo-theme-stack"
+
 disqusShortname = "vipuljha-com"
