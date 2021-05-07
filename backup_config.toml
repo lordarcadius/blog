@@ -1,0 +1,112 @@
+############################ Default configuration #########################
+baseURL = "https://blog.vipuljha.com"
+languageCode = "en-us"
+# publishDir = "docs"
+# site title 
+title = "Vipul Jha"
+# theme
+theme = "northendlab-hugo"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "vipuljha-com" # get your shortname form here : https://disqus.com
+
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+
+########################## Plugings ######################################
+
+# css plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+
+# js plugins
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/mark.js"
+[[params.plugins.js]]
+URL = "plugins/search/search.js"
+
+
+########################### Navigation ###################################
+
+# main menu
+
+[[menu.main]]
+URL = "https://www.vipuljha.com"
+name = "About"
+weight = 2
+
+# footer menu
+
+
+######################### Default Parameters ###########################
+[params]
+# home
+home = "Home"
+# logo
+ logo = "images/logo.svg"
+# meta data
+author = "Vipul Jha"
+description = "The personal blog of Vipul Jha, where he loves to write the stuff he knows."
+# google analitycs ID
+googleAnalitycsID = "UA-67305507-4"
+# contact form action
+contactFormAction = "#" # contact form works with : https://formspree.io
+# copyright
+copyright = "&copy; 2019 [Vipul Jha](https://vipuljha.com) All Rights Reserved."
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# search
+[params.search]
+enable = true
+
+
+####################### banner #######################################
+[params.banner]
+bgImage = "images/banner/banner-bg.svg"
+title = "Hi, I'm Vipul Jha. <br> I am an Android Developer."
+image = "images/banner/illustration.svg"
+
+
+######################## call to action ###############################
+[params.cta]
+enable = true
+image = "images/hugo-muscot.svg"
+title = "Check my profile"
+description = "Here you'll find all my details, projects, social links, skills, education and my resume ofcourse."
+[params.cta.button]
+enable = true
+label = "Visit Here"
+link = "https://www.vipuljha.com"
+
+
+############################## Social Site ##########################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+link = "https://www.facebook.com/lordarcadius"
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+link = "https://www.twitter.com/lordarcadius"
+[[params.social]]
+icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+link = "https://github.com/lordarcadius"
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+link = "https://www.linkedin.com/in/lordarcadius/"
+[[params.social]]
+icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
+link = "https://www.instagram.com/lordarcadius/"
